@@ -1,9 +1,9 @@
 *# Bitcoin Jupyter Note Book Report: Crypto Arbitrage
 
 ## Short Description
-```
+
  Sorting through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase applying the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
- ```
+ 
 ---
 
 ## Technologies
